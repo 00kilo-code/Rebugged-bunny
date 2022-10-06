@@ -1,10 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Hello World</title>
+   <meta charset="utf-8">
+   <title>The OtienoFamily</title>
 </head>
-<body>
-<h1>Dev</h1>
-<p>I am a Frontend Developer</p>
+<body link="#000" alink="#017bf5" vlink="#000">
+<br>
+<h3 align="center">
+<font face="Lato" size="6">LOGO</font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font face="cinzel" size="1">
+<a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp
+<a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp
+<a href="#">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp
+<a href="#">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp
+<a href="#">CONTACT</a>
+</font>
+</h3>
+<br><br><br>
+<h1 align="center">
+<font face="Lato" color="#017bf5" size="9">
+OTIENO FAMILY
+</font>
+</h1>
+<h3 align="center">
+<font face="Lato" color="#000" size="5">
+IN-DEPTH AND<br> PERSONAL (NO FILTER)
+</font>
+</h3>
+<h3 align="center">
+<small>
+<a href="#">
+<font face="Lato" color="#000">GET STARTED</font></a>
+<a href="#">
+<font face="Lato" color="#000">SUBSCRIBE US</font></a>
+</small>
+</h3>
 </body>
 </html>
